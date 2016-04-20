@@ -5,4 +5,3 @@ Hello Humans
 
 Learning new skills to challenge myself.
 
-error
